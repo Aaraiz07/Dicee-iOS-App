@@ -72,6 +72,10 @@
                             <constraint firstItem="By3-uo-QVf" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="yWa-58-zRc"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="diceImageViewOne" destination="tP7-t9-jL4" id="tx6-42-i0A"/>
+                        <outlet property="diceImageViewTwo" destination="Lfo-1t-shl" id="kQO-Ob-DbT"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
